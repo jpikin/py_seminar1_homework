@@ -74,6 +74,8 @@
 #         if w_chocolate % 2 != 0 or h_chocolate % 2 != 0: print('yes')
 #         else: print('no')     
 
+#### 2 Вариант решения 8 задачи:
 
-
+# if piece % h_chocolate == 0 or piece % w_chocolate == 0: print('yes')
+# else: print('no')
 
