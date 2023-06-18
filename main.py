@@ -59,7 +59,7 @@
 
 # while (True):
 #     piece = int(input("Введите необходимое количество долек "))
-#     if piece < h_chocolate * w_chocolate: break
+#     if piece <= h_chocolate * w_chocolate: break
 #     else: print("Шоколадка не на столько большая...")
 
 
